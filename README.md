@@ -1,1 +1,3 @@
 # deneme-projesi
+
+Deneme yanılma
